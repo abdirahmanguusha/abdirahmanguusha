@@ -1,4 +1,5 @@
-# 👋 Hello, I'm Abdirahman Abdi
+<h1 align="center">👋 Hello, I'm Abdirahman Abdi</h1>
+<h2 align="center">Passionate Web Developer</h2>
 
 🚀 Innovator and detail-oriented professional with a passion for web application front-end, project management, cross-platform UI interface, and website optimization across various sectors.
 
