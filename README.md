@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @abdirahmanguusha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hello, I'm [Your Name]
 
-<!---
-abdirahmanguusha/abdirahmanguusha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Innovator and detail-oriented professional with a passion for web application front-end, project management, cross-platform UI interface, and website optimization across various sectors.
+
+
+
+🏡 London, UK
+📞 +44 (0) 750-857-9259
+📧 [Guushaa2013@hotmail.com](mailto:Guushaa2013@hotmail.com)
+
