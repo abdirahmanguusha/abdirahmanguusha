@@ -14,8 +14,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=abdirahmanguusha)
   
 
-
-- 🏡 London, UK
-- 📞 +44 (0) 745-857-9259
-- 📧 [Guushaa2013@hotmail.com](mailto:Guushaa2013@hotmail.com)
+## 🏡 Contact
+- 📞 <a href="tel:+447458579259">+44 (0) 745-857-9259</a>
+- 📧 <a href="mailto:Guushaa2013@hotmail.com">Guushaa2013@hotmail.com</a>
 
