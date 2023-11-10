@@ -12,10 +12,9 @@
 ![kglatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdirahmanguusha&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdirahmanguusha&layout=compact&langs_count=6&custom_title=Top%20Programming%20Languages&theme=radical)](https://github.com/abdirahmanguusha)
 ![Profile Views](https://komarev.com/ghpvc/?username=abdirahmanguusha)
-  
 
 ## 🏡 Contact
-- 📞 <a href="tel:+447458579259">+44 (0) 745-857-9259</a>
+- 📞 <a href="tel:+447458579259">+44 (0) 750-857-9259</a>
 - 📧 <a href="mailto:Guushaa2013@hotmail.com">Guushaa2013@hotmail.com</a>
 
 🚀 Let's Connect and Collaborate on Exciting Projects to Shape the Future of the Web Together! 🌐
